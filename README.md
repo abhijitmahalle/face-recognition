@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Project Description
 
 The goal of this project is to implement different classifiers to achieve face recognition. You are given a set of faces and their corresponding labels. The given data set is divided into training and a testing set is used to train the classifiers.
@@ -182,11 +184,7 @@ data in the testing.
 # Requirement
 Python 2.0 or above
 
-# License
 
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Copyright (c) Feb 2023 Pradip Kathiriya
 
 
 
